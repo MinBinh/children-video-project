@@ -33,13 +33,13 @@ uses the `valuesBluey1.csv` and `valuesCoco1.csv` files
 
 ### now the other files...
 
-the `combine2.py`, `data combine.py`, `fixing.py` are just files use to transform the data to be used in Tableau. When video_frame.py is run it returns hundreds of csv files. So they had to me merged, changed, and transformed.
+the `combine2.py`, `data combine.py`, `fixing.py` are just files use to transform the data to be used in Tableau. When video_frame.py is run it returns hundreds of csv files, so they had to be merged and transformed.
 
 ## Data files for Tableau
 
 `RGBCombine.csv`, `video_time.csv`, and `HLSCombine.csv` are data files that can be used to make visualisations on Tableau
 
 
-### Notes
+## Notes
 
 yes I know it is messy hush :~)
