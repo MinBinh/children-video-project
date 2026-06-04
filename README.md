@@ -1,5 +1,7 @@
 # Children Video Project
 
+Proceedings: [https://www.iadisportal.org/bigdaci-csc-eh-2025-proceedings](https://www.iadisportal.org/bigdaci-csc-eh-2025-proceedings#:~:text=INVESTIGATING%20VISUAL%20VIDEO%20COMPONENTS%20IN%20THE%20CONTEXT%20OF%20HYPERSTIMULATION%20IN%20CHILDREN%E2%80%99S%20VIDEOS%0ABinh%20Minh%20Tran%20and%20Emanuel%20Santos)
+
 This is code used to download, collect, and analyse videos from Cocomelon and other children content creators / shows (BabyChaCha, Bebefinn, Bluey, Pinkgfong, and SuperSimple Songs) for a research paper I worked on and waiting in submission. 
 
 This research focuses on researching video components that are claimed by media and experts to cause Cocomelon videos to become "hyperstimulating" and fast-paced because most reporting did not rely on concrete evidence which gives room for questions of how mnay scene changes, how long are scenes, how fast-pace is Cocomelon, and how does it compare to other channels.
